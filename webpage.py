@@ -17,3 +17,9 @@ st.link_button("Click for notepad", "https://note-jtdcapstone.streamlit.app/?emb
 st.link_button("Click for reminders", "https://super-space-fiesta-4jqvv7rr5x6pcq5gg-8501.app.github.dev/")
 
 #notes write to file, read from file to retreive old notes
+# embed attempts:
+# st.components.v1.iframe("https://note-jtdcapstone.streamlit.app/", height=40, scrolling=True)
+
+#TO DO:
+#add clock, reminders, calendar on home page
+# multiple pages for website
